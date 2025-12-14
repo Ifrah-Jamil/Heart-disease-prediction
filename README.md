@@ -25,8 +25,6 @@ This project is a Machine Learning–based application that predicts whether a p
 
 ---
 
-## ▶️ How to Run the App Locally
+#Live demo
+https://heart-diseases-predictionss.streamlit.app/
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/heart-disease-prediction.git
