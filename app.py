@@ -67,15 +67,8 @@ if st.button("Predict"):
 
 
 
-st.markdown("---")
-st.header("📄 Project Report")
 
-with open("Heart_Disease_Prediction_ML_Project_Report.pdf", "rb") as file:
-    st.download_button(
-        label="Download Project Report (PDF)",
-        data=file,
-        file_name="Heart_Disease_Prediction_ML_Project_Report.pdf",
-        mime="application/pdf"
     )
+
 
 
