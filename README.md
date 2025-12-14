@@ -28,3 +28,8 @@ This project is a Machine Learning–based application that predicts whether a p
 #Live demo
 https://heart-diseases-predictionss.streamlit.app/
 
+## 📄 Project Report
+You can download the complete project report from here:
+
+[Heart Disease Prediction – Project Report](Heart_Disease_Prediction_ML_Project_Report.pdf)
+
