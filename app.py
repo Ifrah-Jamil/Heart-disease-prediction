@@ -1,3 +1,5 @@
+##STREAMLIT APPLICATION 
+
 import streamlit as st
 import numpy as np
 import pickle
@@ -61,9 +63,10 @@ if st.button("Predict"):
 
     # Display result
     if prediction[0] == 1:
-        st.error("⚠️ Heart Disease Detected")
+        st.error(" Heart Disease Detected")
     else:
         st.success("✅ No Heart Disease Detected")
+
 
 
 
