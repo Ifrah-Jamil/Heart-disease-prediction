@@ -1,5 +1,5 @@
-#❤️ Heart Disease Prediction using Machine Learning
-##Project Overview
+## ❤️ Heart Disease Prediction using Machine Learning
+## Project Overview
 
 This project focuses on predicting the presence of heart disease in patients using machine learning classification techniques.
 The aim is to build an end-to-end ML pipeline starting from data preprocessing to model deployment using a Streamlit web application.
@@ -10,16 +10,13 @@ Feature encoding & scaling
 Model training and evaluation
 Model deployment with an interactive UI
 
-##Dataset
-
+## Dataset
 Dataset Type: Tabular medical dataset
 Target Variable: Heart Disease Status
 Problem Type: Binary Classification
 
 Classes:
-
 0 / False → No Heart Disease
-
 1 / True → Heart Disease
 
 The dataset contains patient information such as age, gender, blood pressure, cholesterol levels, lifestyle habits, and other health indicators.
@@ -33,7 +30,7 @@ Scikit-learn – Machine learning models & preprocessing
 Streamlit – Web application
 Pickle – Model serialization
 
-##Project Workflow
+## Project Workflow
 1️⃣ Data Exploration & Profiling
 Used head(), info(), describe(), and null checks
 
@@ -66,29 +63,30 @@ Trained model saved using pickle
 
 Scaler saved separately to ensure consistent preprocessing during prediction
 
-##📈 Model Performance
+## Model Performance
 
 Both Logistic Regression and Random Forest models achieved reliable accuracy on the test dataset.
 Evaluation metrics such as classification report and confusion matrix were used to analyze performance beyond accuracy.
 
-🌐 Web Application 
+## Web Application 
 1. Streamlit
 An interactive Streamlit web app was developed to:
 Take user health inputs
 Apply the same preprocessing steps
 Predict heart disease in real time
 
-#Live demo
+## Live demo
 https://heart-diseases-predictionss.streamlit.app/
 
 2. Gradio
 Lightweight and user-friendly ML interface
 Provides quick predictions with minimal setup
 
-## 📄 Project Report
+##  Project Report
 You can download the complete project report from here:
 
 [Heart Disease Prediction – Project Report](Heart_Disease_Prediction_ML_Project_Report.pdf)
+
 
 
 
