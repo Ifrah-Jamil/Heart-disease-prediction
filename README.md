@@ -2,9 +2,9 @@
 
 This project is a Machine Learning–based application that predicts whether a person has heart disease based on selected health parameters.
 
----
 
-## 🚀 Features
+
+## Features
 - Data cleaning and preprocessing
 - Feature selection
 - Feature scaling
@@ -14,16 +14,16 @@ This project is a Machine Learning–based application that predicts whether a p
 - Model evaluation (Accuracy, Confusion Matrix, Classification Report)
 - Web app deployment using Streamlit
 
----
 
-## 🛠️ Technologies Used
+
+## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
 - Streamlit
 
----
+
 
 #Live demo
 https://heart-diseases-predictionss.streamlit.app/
@@ -32,4 +32,5 @@ https://heart-diseases-predictionss.streamlit.app/
 You can download the complete project report from here:
 
 [Heart Disease Prediction – Project Report](Heart_Disease_Prediction_ML_Project_Report.pdf)
+
 
